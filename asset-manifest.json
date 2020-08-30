@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KarthikMydur/login-table/static/css/main.29deff84.chunk.css",
+    "main.js": "/KarthikMydur/login-table/static/js/main.6e31c7be.chunk.js",
+    "main.js.map": "/KarthikMydur/login-table/static/js/main.6e31c7be.chunk.js.map",
+    "runtime-main.js": "/KarthikMydur/login-table/static/js/runtime-main.75846010.js",
+    "runtime-main.js.map": "/KarthikMydur/login-table/static/js/runtime-main.75846010.js.map",
+    "static/js/2.4a973b42.chunk.js": "/KarthikMydur/login-table/static/js/2.4a973b42.chunk.js",
+    "static/js/2.4a973b42.chunk.js.map": "/KarthikMydur/login-table/static/js/2.4a973b42.chunk.js.map",
+    "index.html": "/KarthikMydur/login-table/index.html",
+    "precache-manifest.6055d51af868c75a8c4bdddc5dbabf94.js": "/KarthikMydur/login-table/precache-manifest.6055d51af868c75a8c4bdddc5dbabf94.js",
+    "service-worker.js": "/KarthikMydur/login-table/service-worker.js",
+    "static/css/main.29deff84.chunk.css.map": "/KarthikMydur/login-table/static/css/main.29deff84.chunk.css.map",
+    "static/js/2.4a973b42.chunk.js.LICENSE.txt": "/KarthikMydur/login-table/static/js/2.4a973b42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75846010.js",
+    "static/js/2.4a973b42.chunk.js",
+    "static/css/main.29deff84.chunk.css",
+    "static/js/main.6e31c7be.chunk.js"
+  ]
+}
